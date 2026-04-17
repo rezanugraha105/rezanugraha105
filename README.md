@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Reza Nugraha! 👋</h1>
 
-<h3 align="center">Detail-oriented Fullstack Developer from Indonesia 🇮🇩</h3>
+<h3 align="center">Fullstack Developer from Indonesia 🇮🇩</h3>
 
 <p align="center">
   I am a passionate Fullstack Developer with solid experience in building scalable web applications. Currently finishing my Bachelor's Degree in Informatics Engineering at Indraprasta PGRI University. I enjoy solving complex problems, designing RESTful APIs, and building responsive user interfaces using modern utility-first frameworks.
